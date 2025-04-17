@@ -1,0 +1,1 @@
+C:\flutterprojects\instagram-clone-flutter-main\mobile\build\app\intermediates\cxx\RelWithDebInfo\s5o1d27j\obj\armeabi-v7a

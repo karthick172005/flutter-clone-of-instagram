@@ -1,0 +1,2 @@
+C:/flutterprojects/instagram-clone-flutter-main/mobile/android/app/.cxx/RelWithDebInfo/s5o1d27j/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/flutterprojects/instagram-clone-flutter-main/mobile/android/app/.cxx/RelWithDebInfo/s5o1d27j/arm64-v8a/CMakeFiles/rebuild_cache.dir
